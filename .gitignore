@@ -1,0 +1,4 @@
+# 绝不推送到公开仓库的敏感文件
+.nmw_token
+*.token
+.local_proxy.conf
