@@ -2,3 +2,4 @@
 .nmw_token
 *.token
 .local_proxy.conf
+.askpass*
